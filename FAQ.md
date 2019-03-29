@@ -85,7 +85,7 @@ Right now this is just a collection of links that potentially may be useful:
 
 ## How do I scale a Phaser 3 game? Is there a ScaleManager in v3?
 
-_Last Updated: 2018-12-07_
+_Last Updated: 2018-3-29_
 
 Not yet, but it's being worked on for Phaser 3.16, which is nearing completion! It won't be as complex as
 the one in Phaser CE, but should do a good job in helping you scale your game to fill
